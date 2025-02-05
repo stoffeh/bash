@@ -1,0 +1,11 @@
+name: Bash
+version: '${project.version}'
+main: me.stoffeh.bash.Bash
+description: Execute multiple commands from file!
+api-version: '1.20'
+commands:
+  bash:
+    description: Execute command from file with delay.
+    usage: /bash <filename> <delay>
+    permission: bash.use
+

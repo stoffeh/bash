@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bash">
+    <output-path>$PROJECT_DIR$/out/artifacts/bash</output-path>
+    <root id="archive" name="Bash.jar">
+      <element id="module-output" name="Bash" />
+    </root>
+  </artifact>
+</component>
