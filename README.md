@@ -10,3 +10,6 @@ This will run commands in a text file with a delay in ticks. Each line in your .
 `<filename>` - Name of your file in the folder. Only use the name of the file and not the extension `.txt`
 
 `<delay>` - Delay between each command in ticks.
+
+## Permissions
+To give others ability to use `/bash`, give them the permission `bash.use`.
